@@ -24,6 +24,11 @@ This is a Userbot based on WhatsAsena written by [Yusuf Usta](https://github.com
 [![Run on Repl.it](https://replit.com/badge/github/lyfe00011/whatsapp-bot)](https://replit.com/@Nightbot2O/baileys-qr)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/lyfe00011/whatsapp-bot) -->
+   
+  ♾ මෙම බොට් only privet බොට් කෙනෙකි 
+  ♾ ඔබට පමණක් බාවිතා කර හැක 
+  ♾ ඉතාම පහසුවෙන් ඩිප්ලෝයි කර හැක 
+  ♾ අපගේ වෙබ් සයිට් එක වෙත යන්න 
 
 | Active | Group commands |
 | :----: | :------------- |
