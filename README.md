@@ -16,7 +16,7 @@ This is a Userbot based on WhatsAsena written by [Yusuf Usta](https://github.com
    <br>
    <a href="https://youtu.be/FAT06h8jPZY"><img src="https://img.shields.io/badge/-watch%20video-critical?style=for-the-badge&logo=youtube&logoColor=white">
    <br>
-   <a href="https://chat.whatsapp.com/Jl6U29pBwmWLG3OOOfdPPt"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Group-lightgrey?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+   <a href="https://chat.whatsapp.com/Jl6U29pBwmWLG3OOfdPPt"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Group-lightgrey?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
    <br>
    <a href="https://github.com/lyfe00011/whatsapp-bot/wiki/"><img src="https://img.shields.io/badge/plugins-blue?style=for-the-badge&logo=appveyor%22"/></a>
 
@@ -26,9 +26,13 @@ This is a Userbot based on WhatsAsena written by [Yusuf Usta](https://github.com
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/lyfe00011/whatsapp-bot) -->
    
   ♾ මෙම බොට් only privet බොට් කෙනෙකි 
+   
   ♾ ඔබට පමණක් බාවිතා කර හැක 
+   
   ♾ ඉතාම පහසුවෙන් ඩිප්ලෝයි කර හැක 
+   
   ♾ අපගේ වෙබ් සයිට් එක වෙත යන්න 
+   
 
 | Active | Group commands |
 | :----: | :------------- |
