@@ -8,14 +8,21 @@ This is a Userbot based on WhatsAsena written by [Yusuf Usta](https://github.com
 
 ## Setup
 
+17
+
+
 1. Click [SCAN](https://replit.com/@Nightbot2O/baileys-qr) or [SCAN](https://early-pie-production.up.railway.app/qr) and scan QR through Whatsapp Linked Devices Option in Your whatsapp App.
 2. You will get a long text that needs after 4th step (ASENA_SESSION).
 3. If You don't have a account in [Heroku](https://signup.heroku.com/), Create a account.
-4. Click [FORK](https://github.com/lyfe00011/whatsapp-bot/fork)
-5. Now https://heroku.com/deploy?template=https://https:github.com/Mrnimama/whatsapp-bot මෙය ක්ලික් කර ඔබගේ බොට්ව ඩිප්ලොයි කරගන්න<br>
-   <br>
-   <a href="https://youtu.be/FAT06h8jPZY"><img src="https://img.shields.io/badge/-watch%20video-critical?style=for-the-badge&logo=youtube&logoColor=white">
-   <br>
+4. <div align="center">
+
+	<h6>CLICK TO INSTALL BUTTON  DEPLOY YOUR Whatsapp Bot</h6>
+
+	<a href="https://heroku.com/deploy?template=https://https:github.com/Mrnimama/whatsapp-bot">
+
+<img src="https://images.squarespace-cdn.com/content/v1/580515742e69cfedd1fbef58/1525386767826-Z6T2PAXQD6PZJFNGY14U/ke17ZwdGBToddI8pDm48kGzbt7cz3CKX9Rsta-RdWeJZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpwXPcCdCfJzTjuw7eD5qoJaUvNnrlJ7-JqE3xnP9OqaaXMr3zNNd3H5Lklmgn1mB80/getbutton.png" width="250"></br></a>
+
+</div>
    <a href="https://chat.whatsapp.com/Jl6U29pBwmWLG3OOfdPPt"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Group-lightgrey?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
    <br>
    <a href="https://github.com/lyfe00011/whatsapp-bot/wiki/"><img src="https://img.shields.io/badge/plugins-blue?style=for-the-badge&logo=appveyor%22"/></a>
